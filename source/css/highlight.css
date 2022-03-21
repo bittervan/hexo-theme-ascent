@@ -63,8 +63,9 @@ pre::-webkit-scrollbar-thumb {
 }
 
 .highlight .code pre {
-  max-width: 30rem;
-  width: calc(100vw - 4rem);
+  /* max-width: 30rem;
+  width: calc(100vw - 4rem); */
+  width: 64em;
 }
 
 pre .comment, pre .title {
