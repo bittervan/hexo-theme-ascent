@@ -66,6 +66,7 @@ pre::-webkit-scrollbar-thumb {
   /* max-width: 30rem;
   width: calc(100vw - 4rem); */
   max-width: 64em;
+  width: calc(100vw - 4rem);
 }
 
 pre .comment, pre .title {
